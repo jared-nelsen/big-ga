@@ -1,2 +1,2 @@
-(ns algorithm)
+(ns ga-service.algorithm)
 

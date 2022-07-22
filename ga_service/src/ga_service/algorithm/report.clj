@@ -1,1 +1,1 @@
-(ns report)
+(ns ga-service.algorithm.report)

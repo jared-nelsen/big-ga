@@ -1,1 +1,1 @@
-(ns selection)
+(ns ga-service.algorithm.selection)

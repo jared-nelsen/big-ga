@@ -1,1 +1,1 @@
-(ns crossover)
+(ns ga-service.algorithm.crossover)

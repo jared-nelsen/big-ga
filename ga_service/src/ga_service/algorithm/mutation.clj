@@ -1,1 +1,1 @@
-(ns mutation)
+(ns ga-service.algorithm.mutation)
